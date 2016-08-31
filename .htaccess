@@ -1,4 +1,3 @@
-Options All -ExecCGI -Indexes -Includes +FollowSymLinks
 ## EXPIRES CACHING ## 
 <IfModule mod_expires.c> 
 ExpiresActive On 
